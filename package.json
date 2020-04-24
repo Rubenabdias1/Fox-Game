@@ -1,0 +1,20 @@
+{
+  "name": "Fox-Game",
+  "version": "1.0.0",
+  "description": "Fox Game Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubenabdias1/Fox-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubenabdias1/Fox-Game/issues"
+  },
+  "homepage": "https://github.com/Rubenabdias1/Fox-Game#readme"
+}
